@@ -23,5 +23,7 @@ As a new adventurer in the world of programming and game development, I'm steppi
 
 
 ![cecilialevenstein's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cecilialevenstein&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 ![cecilialevenstein's Stats](https://github-readme-stats.vercel.app/api?username=cecilialevenstein&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 ![cecilialevenstein's Streak](https://github-readme-streak-stats.herokuapp.com/?user=cecilialevenstein&theme=vue-dark&hide_border=true)
