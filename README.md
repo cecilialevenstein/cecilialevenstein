@@ -1,12 +1,12 @@
 # Hi, I'm Ciça! 👋
 
-I'm a new adventurer in the world of programming and game development, exploring a realm filled with boundless creativity and potential. Every line of code and pixel I create brings me closer to transforming my ideas into immersive experiences.
+I'm a new adventurer in the world of programming and game development, exploring a realm filled with boundless creativity and potential. Every line of code and pixel I create brings me closer to transforming my ideas into immersive experiences./
 
-🌱 Learning and Growing: I embrace the journey, celebrating each small victory and welcoming challenges as opportunities for growth.
-🎮 Crafting Experiences: With a passion for storytelling and design, I'm dedicated to weaving interactive stories that captivate and inspire.
-🚀 Driven by Innovation: Guided by the belief that every expert was once a beginner, I’m determined to make my mark in this dynamic field.
-
-Let’s connect and create something extraordinary together!
+🌱 Learning and Growing: I embrace the journey, celebrating each small victory and welcoming challenges as opportunities for growth./
+🎮 Crafting Experiences: With a passion for storytelling and design, I'm dedicated to weaving interactive stories that captivate and inspire./
+🚀 Driven by Innovation: Guided by the belief that every expert was once a beginner, I’m determined to make my mark in this dynamic field./
+/
+Let’s connect and create something extraordinary together!/
 
 ## I'm at:
 
