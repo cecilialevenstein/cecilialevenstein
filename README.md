@@ -6,7 +6,7 @@ I'm a new adventurer in the world of programming and game development, exploring
 🎮 Crafting Experiences: With a passion for storytelling and design, I'm dedicated to weaving interactive stories that captivate and inspire.\
 🚀 Driven by Innovation: Guided by the belief that every expert was once a beginner, I’m determined to make my mark in this dynamic field.\
 \
-Let’s connect and create something extraordinary together!\
+Let’s connect and create something extraordinary together!
 
 ## I'm at:
 
